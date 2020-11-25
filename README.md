@@ -1,4 +1,4 @@
 # webpageParser
-A simple python application that scrapes images, text and numbers from the URL entered
+**This parser is a fork of [Sauravkh's WebpageParser](https://github.com/sauravkh/webpageParser).**
 
-Please find and install the dependencies listed in requirements.txt
+Indev
